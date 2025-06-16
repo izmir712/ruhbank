@@ -1,8 +1,13 @@
-export default function Home() {
+
+
+  
+      
+  export default function Home() {
   return (
     <div>
-      <h1>🌟 RUHBANK ÇALIŞIYOR! 🚀</h1>
-      <p>Yıldızlara doğru gidiyoruz ortak!</p>
+      <h1>Yıldızlara doğru gidiyoruz 🌟✨🚀</h1>
     </div>
   );
 }
+
+
